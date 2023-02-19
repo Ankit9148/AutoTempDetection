@@ -5,11 +5,6 @@
 #include <any>
 
 using namespace std;
-bool checkIfInt(any var);
-bool checkIfNull(int var);
-#define MIN_POSSIBLE_TEMP -270
-#define MAX_POSSIBLE_TEMP 100
-
 /*
  * Interface that controls room temperature based on user input.
  * @param {any} minTemp : Minimunum room temperature below which the heater starts 
