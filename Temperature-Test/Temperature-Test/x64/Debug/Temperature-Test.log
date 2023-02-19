@@ -1,0 +1,27 @@
+﻿  test.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\any(13): warning STL4038: The contents of <any> are available only with C++17 or later.
+D:\AutoTempDetection\AutoTempDetection\AutoTempDetection\AutoTempDetection.cpp(8,17): error C2065: 'any': undeclared identifier
+D:\AutoTempDetection\AutoTempDetection\AutoTempDetection\AutoTempDetection.cpp(8,21): error C2146: syntax error: missing ')' before identifier 'var'
+D:\AutoTempDetection\AutoTempDetection\AutoTempDetection\AutoTempDetection.cpp(19,27): error C2065: 'any': undeclared identifier
+D:\AutoTempDetection\AutoTempDetection\AutoTempDetection\AutoTempDetection.cpp(19,31): error C2146: syntax error: missing ')' before identifier 'minTemp'
+D:\AutoTempDetection\AutoTempDetection\AutoTempDetection\AutoTempDetection.cpp(19,95): error C2143: syntax error: missing ';' before '{'
+D:\AutoTempDetection\AutoTempDetection\AutoTempDetection\AutoTempDetection.cpp(19,95): error C2447: '{': missing function header (old-style formal list?)
+D:\AutoTempDetection\AutoTempDetection\AutoTempDetection\AutoTempDetection.cpp(59,10): error C3861: 'runAutoTempControl': identifier not found
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(5,3): error C3861: 'runAutoTempControl': identifier not found
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(5,3): error C2737: 'gtest_ar': const object must be initialized
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(10,2): error C3861: 'runAutoTempControl': identifier not found
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(10,2): error C2737: 'gtest_ar': const object must be initialized
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(15,2): error C3861: 'runAutoTempControl': identifier not found
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(15,2): error C2737: 'gtest_ar': const object must be initialized
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(21,2): error C3861: 'runAutoTempControl': identifier not found
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(21,2): error C2737: 'gtest_ar': const object must be initialized
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(26,2): error C3861: 'runAutoTempControl': identifier not found
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(26,2): error C2737: 'gtest_ar': const object must be initialized
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(31,2): error C3861: 'runAutoTempControl': identifier not found
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(31,2): error C2737: 'gtest_ar': const object must be initialized
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(36,2): error C3861: 'runAutoTempControl': identifier not found
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(36,2): error C2737: 'gtest_ar': const object must be initialized
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(41,2): error C3861: 'runAutoTempControl': identifier not found
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(41,2): error C2737: 'gtest_ar': const object must be initialized
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(46,2): error C3861: 'runAutoTempControl': identifier not found
+D:\AutoTempDetection\Temperature-Test\Temperature-Test\test.cpp(46,2): error C2737: 'gtest_ar': const object must be initialized
